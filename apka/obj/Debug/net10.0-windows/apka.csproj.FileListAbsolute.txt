@@ -1,0 +1,16 @@
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\bin\Debug\net10.0-windows\apka.exe
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\bin\Debug\net10.0-windows\apka.deps.json
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\bin\Debug\net10.0-windows\apka.runtimeconfig.json
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\bin\Debug\net10.0-windows\apka.dll
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\bin\Debug\net10.0-windows\apka.pdb
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.Form1.resources
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.csproj.GenerateResource.cache
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.AssemblyInfoInputs.cache
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.AssemblyInfo.cs
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.dll
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\refint\apka.dll
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.pdb
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\apka.genruntimeconfig.cache
+C:\Users\Egzamin\Videos\Captures\4ps\apka\apka\obj\Debug\net10.0-windows\ref\apka.dll
